@@ -1,6 +1,6 @@
-## An app about music for my friend Evan
-### Built so he can listen to a new album on his rides to work
-### Basically, it accesses the Spotify API to retreive album information
+# An app about music for my friend Evan
+Built so he can listen to a new album on his rides to work
+Basically, it accesses the Spotify API to retreive album information
 
 ## To run on simulator: 
 ### $ cd EvansPhoneApp
