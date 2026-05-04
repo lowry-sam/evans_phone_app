@@ -12,4 +12,4 @@ Basically, it accesses the Spotify API to retreive album information
 ### Connect iPhone via cord
 ### Click "Run" from the Project dropdown
 
-## Written by Sam Lowry, 2023
+#### Written by Sam Lowry, 2023
