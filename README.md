@@ -12,10 +12,10 @@ To install on iPhone:
 3. Click `Run` from the Project dropdown
 
 <p align: "center">
-  <img src="Images/README/first.png"/>
-  <img src="/EvansPhoneApp/Images/README/second.png"/>
-  <img src="/EvansPhoneApp/Images/README/third.png"/>
-  <img src="/EvansPhoneApp/Images/README/fourth.png"/>
+  <img src="Images/README/first.PNG"/>
+  <img src="/EvansPhoneApp/Images/README/second.PNG"/>
+  <img src="/EvansPhoneApp/Images/README/third.PNG"/>
+  <img src="/EvansPhoneApp/Images/README/fourth.PNG"/>
   <img src="/EvansPhoneApp/Images/README/intro.gif"/>
   <img src="/EvansPhoneApp/Images/README/change album.gif"/>
   <img src="/EvansPhoneApp/Images/README/mini albums.gif"/>
