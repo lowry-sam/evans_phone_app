@@ -12,10 +12,10 @@ To install on iPhone:
 3. Click `Run` from the Project dropdown
 
 <p align: "center">
-  <img src="Images/README/first.PNG" width="300px"/>
-  <img src="Images/README/second.PNG" width="300px"/>
-  <img src="Images/README/third.PNG" width="300px"/>
-  <img src="Images/README/fourth.PNG" width="300px"/>
+  <img src="Images/README/first.PNG" width="200px" height="500px"/>
+  <img src="Images/README/second.PNG" width="200px"/>
+  <img src="Images/README/third.PNG" width="200px"/>
+  <img src="Images/README/fourth.PNG" width="200px"/>
   <img src="Images/README/intro.gif"  width="300px"/>
   <img src="Images/README/change album.gif"  width="300px"/>
   <img src="Images/README/mini albums.gif"  width="300px"/>
