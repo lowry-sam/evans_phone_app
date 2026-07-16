@@ -12,13 +12,13 @@ To install on iPhone:
 3. Click `Run` from the Project dropdown
 
 <p align: "center">
-  <img src="Images/README/first.PNG"/>
-  <img src="/EvansPhoneApp/Images/README/second.PNG"/>
-  <img src="/EvansPhoneApp/Images/README/third.PNG"/>
-  <img src="/EvansPhoneApp/Images/README/fourth.PNG"/>
-  <img src="/EvansPhoneApp/Images/README/intro.gif"/>
-  <img src="/EvansPhoneApp/Images/README/change album.gif"/>
-  <img src="/EvansPhoneApp/Images/README/mini albums.gif"/>
+  <img src="Images/README/first.PNG" width="300px"/>
+  <img src="Images/README/second.PNG" width="300px"/>
+  <img src="Images/README/third.PNG" width="300px"/>
+  <img src="Images/README/fourth.PNG" width="300px"/>
+  <img src="Images/README/intro.gif"  width="300px"/>
+  <img src="Images/README/change album.gif"  width="300px"/>
+  <img src="Images/README/mini albums.gif"  width="300px"/>
 </p>
 
 *Written by Sam Lowry, 2023 using React-Native*
