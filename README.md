@@ -12,7 +12,7 @@ To install on iPhone:
 3. Click `Run` from the Project dropdown
 
 <p align: "center">
-  <img src="/EvansPhoneApp/Images/README/first.png"/>
+  <img src="Images/README/first.png"/>
   <img src="/EvansPhoneApp/Images/README/second.png"/>
   <img src="/EvansPhoneApp/Images/README/third.png"/>
   <img src="/EvansPhoneApp/Images/README/fourth.png"/>
