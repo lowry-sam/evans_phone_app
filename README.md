@@ -15,7 +15,7 @@ To install on iPhone:
   <img src="Images/README/first.PNG" width="225px" height="500px"/>
   <img src="Images/README/second.PNG" width="225px" height="500px"/>
   <img src="Images/README/third.PNG" width="225px" height="500px"/>
-  <img src="Images/README/fourth.PNG" width="225px" height="500px"/>
+  <img src="Images/README/fourth.PNG" width="225px" height="700px"/>
   <img src="Images/README/intro.gif"  width="300px" height="500px"/>
   <img src="Images/README/change album.gif"  width="300px" height="500px"/>
   <img src="Images/README/mini albums.gif"  width="300px" height="500px"/>
